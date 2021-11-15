@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-15T23:05:18 IST" name="Default suite" finished-at="2021-11-15T23:08:12 IST" duration-ms="173554">
+    <groups>
+    </groups>
+    <test started-at="2021-11-15T23:05:18 IST" name="Default test" finished-at="2021-11-15T23:08:12 IST" duration-ms="173554">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="createTest()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:05:18 IST" name="createTest" finished-at="2021-11-15T23:05:18 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest -->
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:05:19 IST" name="LaunchBrowser" finished-at="2021-11-15T23:05:22 IST" duration-ms="3429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="launchchrome()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:05:22 IST" name="launchchrome" finished-at="2021-11-15T23:06:15 IST" duration-ms="52706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchchrome -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:06:15 IST" name="CloseBrowser" finished-at="2021-11-15T23:06:15 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:06:15 IST" name="LaunchBrowser" finished-at="2021-11-15T23:06:17 IST" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="launchchrome1()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:06:17 IST" name="launchchrome1" finished-at="2021-11-15T23:07:14 IST" duration-ms="56444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchchrome1 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:07:14 IST" name="CloseBrowser" finished-at="2021-11-15T23:07:14 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:07:14 IST" name="LaunchBrowser" finished-at="2021-11-15T23:07:16 IST" duration-ms="2152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="launchchrome2()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:07:16 IST" name="launchchrome2" finished-at="2021-11-15T23:08:12 IST" duration-ms="55694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchchrome2 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:08:12 IST" name="CloseBrowser" finished-at="2021-11-15T23:08:12 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="FlushReport()[pri:0, instance:tests.HomePageTest@1b2abca6]" started-at="2021-11-15T23:08:12 IST" name="FlushReport" finished-at="2021-11-15T23:08:13 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlushReport -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
